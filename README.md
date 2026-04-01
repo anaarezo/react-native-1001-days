@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/1001-react-native.png" width="250px" />
     <h2 align="center" style="margin-top: -15px">
-    React Native for 1001 Days
+    React Native 1001
   </h2>
 </p>
 
@@ -14,21 +14,3 @@ I created this repository as part of my 1001 Days of React Native challenge. The
 
 
 <!-- ### Day 1 - Carousel with Play and Pause -->
-
-<!--
-Ideas:
-
- - Carousel using FlatList
-- BottomSheet using Expo only
-- Mini game how many pieces
-- Swipeable
-- Conffetti explosion
-- Vortex
-- Marquee text
-- Cards carousel
-- Increment and decrement field
-- Modal with Video
-- Video showing in the screen
-- Maps -->
-
-
