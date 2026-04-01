@@ -15,6 +15,6 @@ I created this repository as part of my 1001 Days of React Native challenge. The
 
 ### Day 1 - Carousel with Play and Pause
 
-https://github.com/user-attachments/assets/13888967-3cba-421f-b710-390d04749902
+![Demo](https://github.com/user-attachments/assets/13888967-3cba-421f-b710-390d04749902)
 
 
