@@ -13,4 +13,4 @@ I created this repository as part of my 1001 Days of React Native challenge. The
 <a href="https://www.buymeacoffee.com/lauraarezo4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="width: 150px !important;" ></a>
 
 
-<!-- ### Day 1 - Carousel with Play and Pause -->
+### Day 1 - Carousel with Play and Pause
