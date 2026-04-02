@@ -17,6 +17,17 @@ I created this repository as part of my 1001 Days of React Native challenge. The
 
 Highly customizable React Native carousel built with the powerful react-native-reanimated-carousel library. Features include a play and pause button for seamless control, dynamic bullet pagination that doubles as a progress bar, and smooth animations. Ideal for mobile app developers looking for an interactive and performance-optimized image slider in React Native.
 
+<a href="https://snack.expo.dev/@anaarezo/542174" target="_blank">
+  <img src="https://snack.expo.dev/dist/assets/bc351fd24f9bd32bc131f122d42c1a77.svg" width="30" height="30" />
+</a>
+
 https://github.com/user-attachments/assets/13888967-3cba-421f-b710-390d04749902
 
 
+### Day 2 - Swipeable List Item
+
+Component that provides a swipeable list item with customizable actions. Users can swipe left or right to reveal action buttons, such as delete or archive.
+
+<a href="https://snack.expo.dev/@anaarezo/react-native-reanimated-carousel-with-play-and-pause" target="_blank">
+  <img src="https://snack.expo.dev/dist/assets/bc351fd24f9bd32bc131f122d42c1a77.svg" width="30" height="30" />
+</a>
